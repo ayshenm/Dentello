@@ -10,7 +10,7 @@ const Footer = () => {
     <div className="w-full h-24 bg-slate-900 flex items-center justify-between px-40">
       <div>
         <span className="text-white text-lg">
-          © 2024 All Rights Reserved by John Doe.
+          © 2024 All Rights Reserved by Ayisha Mirza.
         </span>
       </div>
 
